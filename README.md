@@ -1,4 +1,4 @@
-### Hi 👋🏻 I'm Ihor 📱🇺🇦
+### Hi 👋🏻 I'm Ihor 📱
 
 **I am a mobile developer, focused on Flutter.**
 
